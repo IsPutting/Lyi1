@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <err.h>
+// 61
 static void child(){
     char *args[]={"/bin/echo","hello",NULL};
     printf("I'm child! my pid is %d.\n",getpid());
