@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <err.h>
+// ad
 static void child(){
     printf("I'm child! my pid is %d \n",getpid());
     exit(EXIT_SUCCESS);
