@@ -17,7 +17,6 @@ int main(){
     write_extern();
     int* b=test();
     printf("b is %p\n",*b);
- 
     return 0;
 
 }
