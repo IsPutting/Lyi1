@@ -18,5 +18,5 @@ int main(){
     int* b=test();
     printf("b is %p\n",*b);
     return 3;
-
+ hello
 }
