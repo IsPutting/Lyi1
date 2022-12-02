@@ -21,4 +21,5 @@ int main(){
 hello
  world
  嘻嘻嘻
+ 删了啥东西
 }
